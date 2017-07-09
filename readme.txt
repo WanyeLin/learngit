@@ -1,2 +1,2 @@
-Gits is a version control system  .
+Gits is a distributed version control system  .
 Fits is free software
