@@ -5,4 +5,8 @@ git tracks changes
 the glittering sweat 
 if a happy smile comes to you
 it is the moment when I am thinking of you  
+<<<<<<< HEAD
 and live like it’s the heaven 
+=======
+and 
+>>>>>>> featurel
