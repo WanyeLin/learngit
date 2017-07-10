@@ -5,4 +5,4 @@ git tracks changes
 the glittering sweat 
 if a happy smile comes to you
 it is the moment when I am thinking of you  
-and live like it’s the heaven on earth 
+and live like it’s the heaven 
