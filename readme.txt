@@ -6,3 +6,4 @@ the glittering sweat
 if a happy smile comes to you
 it is the moment when I am thinking of you  
 take a shine for you
+what 
